@@ -1,0 +1,6 @@
+print("Name:Harini M")
+print("Address:3/13,A.lakshmipuram(po),Alagarkovil(Via),Madurai")
+print("Mobile number:9345521995")
+print("College name:Navarasam Arts & Science College For Women")
+print("Course:Bsc[Computer science]")
+print("Subject:\n1.Data structure \n2.Python programming \n3.Python programming lab \n4.Machine learning \n5.SESPM")
